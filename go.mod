@@ -19,7 +19,7 @@ require (
 	github.com/google/go-licenses v0.0.0-20210329231322-ce1d9163b77d
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/letsencrypt/pkcs11key/v4 v4.0.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/pseudomuto/protoc-gen-doc v1.5.0
 	github.com/transparency-dev/merkle v0.0.0-20220104141048-2fe6541b4c0d
@@ -30,7 +30,7 @@ require (
 	go.opencensus.io v0.23.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
+	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
 	golang.org/x/tools v0.1.8
 	google.golang.org/api v0.63.0
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
